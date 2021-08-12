@@ -110,7 +110,7 @@
     section { padding: 25px 0; }
     .contact-form {width: 100%; }
 }
-    @media screen and (max-width: 600px) { 
+    @media screen and (max-width: 720px) { 
         .section-meal .card {
             width: 48%;
             min-height: 300px;}
